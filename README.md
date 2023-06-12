@@ -1,6 +1,6 @@
 # Exploring-MultiLayer-Perceptrons
 
-If you are unable to render the notebook on github, you can view it [here](https://nbviewer.org/github/akash18tripathi/Gaussian-Naive-Bayes-From-Scratch/blob/main/Gaussian%20Naive%20Bayes.ipynb)
+If you are unable to render the notebook on github, you can view it [here](https://nbviewer.org/github/akash18tripathi/Exploring-MultiLayer-Perceptrons/blob/main-Exploring%20MultiLayer%20Perceptrons.ipynb)
 
 ## Introduction
 In this Notebook, we will be working with the MNIST dataset to explore the importance of different Multi-Layer Perceptron (MLP) components. The MNIST dataset consists of 70,000 handwritten digit images, each of which is 28x28 pixels in size. Our goal is to use an MLP to classify these images into one of 10 categories (0-9).
